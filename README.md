@@ -1,2 +1,2 @@
 # Landing-page-1
-Made by Mickael Dalle-Pasqualine, Remy Duquesnay and Marie-Angélique Sommier
+Made by Mickael Dalle-Pasqualine, Remi Duquesnay and Marie-Angélique Sommier
